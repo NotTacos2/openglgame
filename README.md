@@ -16,6 +16,9 @@
 # How do I play this?
 Go to release page then download and extract the release zip. Controls are in CONTROLS.txt!
 
+# Showcase
+![Showcase of the game](teapotshowcase.png)
+
 # Credits:
 - Alec Jacobson for obj models
 - Sean Barrett for stb_image
